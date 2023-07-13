@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-- [Introduction](chapter-1.md)
   - [The Importance of Effective Career Development for Professional Success](chapter-1-1.md)
   - [Overview of the Book](chapter-1-2.md)
 - [Understanding Your Talents and Passions](chapter-2.md)
@@ -28,8 +27,5 @@
   - [Choosing Metrics to Evaluate Career Development Effectiveness](chapter-7-1.md)
   - [Gathering Data on Career Development Activities](chapter-7-2.md)
   - [Using Feedback to Continuously Improve Career Development Efforts](chapter-7-3.md)
-- [Conclusion](chapter-8.md)
-  - [Recap of Key Takeaways](chapter-8-1.md)
-  - [Encouragement to Utilize the Career Development Method for Increased Professional Success and Fulfillment](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

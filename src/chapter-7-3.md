@@ -1,4 +1,4 @@
-Chapter: Measuring the Success of Career Development: Using Feedback to Continuously Improve Career Development Efforts
+Using Feedback to Continuously Improve Career Development Efforts
 =======================================================================================================================
 
 Feedback is a critical component of measuring the success of career development. It provides valuable insights into your strengths and areas for improvement, and can guide your future career development efforts. In this chapter, we will explore best practices for using feedback to continuously improve your career development efforts.

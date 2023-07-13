@@ -1,4 +1,4 @@
-Chapter: Overcoming Obstacles in Career Development: Understanding Common Obstacles to Career Development
+Understanding Common Obstacles to Career Development
 =========================================================================================================
 
 In order to overcome obstacles in career development, it's important to first understand the common challenges that professionals face. These obstacles can take many forms and may differ depending on your industry, level of experience, and personal circumstances. In this chapter, we will explore some of the most common obstacles to career development.

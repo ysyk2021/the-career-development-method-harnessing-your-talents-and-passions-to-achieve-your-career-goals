@@ -1,4 +1,4 @@
-Chapter: Networking and Professional Relationships: Strategies for Building a Strong Professional Network
+Strategies for Building a Strong Professional Network
 =========================================================================================================
 
 Building a strong professional network is critical to achieving success in your personal and professional growth expedition. A strong network can provide support, advice, and opportunities for career advancement. In this chapter, we will explore strategies for building a strong professional network.

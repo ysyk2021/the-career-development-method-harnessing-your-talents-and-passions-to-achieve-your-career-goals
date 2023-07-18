@@ -10,7 +10,6 @@ Throughout the book, you'll find practical tips and exercises designed to help y
 
 Whether you're just starting out in your career or looking to make a change, "The Career Development Method" offers valuable insights and strategies for achieving your career goals. So, embark on a journey of discovery and development with this book and take the first step towards achieving the career success and fulfillment you deserve.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 

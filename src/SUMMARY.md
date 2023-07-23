@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The Importance of Effective Career Development for Professional Success](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Understanding Your Talents and Passions](chapter-2.md)
   - [Strategies for Identifying Your Unique Talents and Passions](chapter-2-1.md)
   - [Techniques for Aligning Your Career Goals with Your Talents and Passions](chapter-2-2.md)

@@ -1,4 +1,4 @@
-Chapter: Measuring the Success of Career Development
+Measuring the Success of Career Development
 ====================================================
 
 Measuring the success of career development is critical for assessing progress, identifying areas for improvement, and achieving greater success and fulfillment in your career. In this chapter, we will explore strategies for choosing metrics to evaluate career development effectiveness, gathering data on career development activities, and using feedback to continuously improve career development efforts.

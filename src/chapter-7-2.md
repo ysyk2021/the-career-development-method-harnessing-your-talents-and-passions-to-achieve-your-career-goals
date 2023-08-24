@@ -1,5 +1,3 @@
-Gathering Data on Career Development Activities
-=====================================================================================================
 
 Measuring the success of career development requires gathering data on your career development activities. This data can provide insights into the effectiveness of your efforts and guide your future career development decisions. In this chapter, we will explore best practices for gathering data on career development activities.
 

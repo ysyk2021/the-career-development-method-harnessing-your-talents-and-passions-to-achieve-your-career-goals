@@ -1,5 +1,3 @@
-Networking and Professional Relationships
-==================================================
 
 Networking and building strong professional relationships are critical components of career development success. In this chapter, we will explore strategies for building a strong professional network, techniques for nurturing positive relationships with colleagues and mentors, and best practices for leveraging your network for career development success.
 

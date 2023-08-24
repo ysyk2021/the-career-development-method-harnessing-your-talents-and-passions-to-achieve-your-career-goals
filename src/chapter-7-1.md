@@ -1,5 +1,3 @@
-Choosing Metrics to Evaluate Career Development Effectiveness
-===================================================================================================================
 
 Measuring the success of career development is an important component of your personal and professional growth expedition. It allows you to track progress towards your goals, identify areas for improvement, and ensure that your efforts are having a positive impact on your career. In this chapter, we will explore best practices for choosing metrics to evaluate career development effectiveness.
 

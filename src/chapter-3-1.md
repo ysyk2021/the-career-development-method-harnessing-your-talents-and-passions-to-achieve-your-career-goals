@@ -1,5 +1,4 @@
-Chapter: Strategies for Creating an Effective Career Development Plan
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a career development plan is essential for individuals seeking to reach their career goals. This chapter explores strategies for developing a comprehensive and effective career development plan.
 

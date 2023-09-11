@@ -1,5 +1,4 @@
-Chapter: Techniques for Nurturing Positive Relationships with Colleagues and Mentors
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Building and nurturing positive relationships with colleagues and mentors is crucial for career development. In this chapter, we will explore some techniques that can help you cultivate and maintain strong relationships with your peers and mentors.
 

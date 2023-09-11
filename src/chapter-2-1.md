@@ -1,5 +1,4 @@
-Chapter: Strategies for Identifying Your Unique Talents and Passions
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a variety of strategies that can help you identify your unique talents and passions. Understanding your strengths and interests is crucial for shaping a fulfilling and successful career. By using these strategies, you can gain valuable insights into what truly motivates and energizes you.
 

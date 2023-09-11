@@ -1,5 +1,4 @@
-Chapter: Techniques for Aligning Your Career Goals with Your Talents and Passions
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore practical techniques that can help you align your career goals with your talents and passions. By identifying your unique strengths and interests, you can pursue a career that brings fulfillment and allows you to leverage your natural abilities. These techniques will guide you in discovering the intersection between your talents, passions, and career aspirations.
 

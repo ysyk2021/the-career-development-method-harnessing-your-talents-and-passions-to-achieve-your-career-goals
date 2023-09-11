@@ -1,5 +1,4 @@
-Chapter: Strategies for Overcoming Barriers to Success
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey towards achieving one's career goals, individuals often encounter various barriers and obstacles that can hinder their progress. In this chapter, we will explore effective strategies for overcoming these barriers and paving the way to success.
 

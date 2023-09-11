@@ -1,5 +1,4 @@
-Chapter: Gathering Data on Career Development Activities
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of gathering data on career development activities to assess their effectiveness and make informed decisions based on empirical evidence. By collecting and analyzing relevant data, individuals and organizations can gain insights into the impact of their career development efforts, identify areas for improvement, and maximize their professional growth potential.
 

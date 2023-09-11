@@ -1,5 +1,4 @@
-Chapter: Understanding the Importance of Developing Essential Career Skills
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing essential career skills is crucial for achieving professional success and advancing in a competitive job market. This chapter explores the importance of developing essential career skills, the key skills required for career success, and strategies for developing and improving these skills.
 

@@ -1,5 +1,4 @@
-Chapter: Techniques for Setting Meaningful and Realistic Career Goals
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting meaningful and realistic career goals is essential for achieving professional success and personal fulfillment. This chapter explores various techniques to help individuals set goals that align with their talents, passions, and long-term aspirations.
 

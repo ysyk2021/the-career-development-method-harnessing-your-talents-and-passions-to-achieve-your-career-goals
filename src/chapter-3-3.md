@@ -1,5 +1,4 @@
-Chapter: Best Practices for Navigating Career Transitions and Advancements
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Navigating career transitions and advancements can be both exciting and challenging. This chapter explores best practices for successfully managing career transitions, handling promotions, and achieving professional growth.
 

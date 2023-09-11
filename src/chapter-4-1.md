@@ -1,5 +1,4 @@
-Chapter: Strategies for Building a Strong Professional Network
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's interconnected world, building a strong professional network is essential for career growth and success. In this chapter, we will explore effective strategies for expanding and nurturing your professional network.
 

@@ -1,5 +1,4 @@
-Chapter: Best Practices for Navigating Challenges and Uncertainty in Career Development
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Career development is not always a linear path, and it often presents challenges and uncertainties along the way. In this chapter, we will explore best practices for effectively navigating these obstacles and uncertainties in your career journey.
 

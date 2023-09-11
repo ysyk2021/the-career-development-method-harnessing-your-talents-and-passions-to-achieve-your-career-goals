@@ -1,5 +1,4 @@
-Chapter: Choosing Metrics to Evaluate Career Development Effectiveness
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of choosing appropriate metrics to evaluate the effectiveness of career development initiatives. Evaluating the impact of career development efforts is crucial for individuals and organizations to understand the value and effectiveness of their investment in professional growth. By selecting relevant metrics, you can assess the outcomes of career development activities and make informed decisions to further enhance your career journey.
 

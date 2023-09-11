@@ -1,5 +1,4 @@
-Chapter: Understanding Common Obstacles to Career Development
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of our career goals, we often encounter various obstacles that can hinder our progress and hamper our professional development. In this chapter, we will explore some common obstacles that individuals face in their career journeys and how to effectively navigate them.
 
